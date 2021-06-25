@@ -460,12 +460,12 @@
   "0xAB58C27C2E6123C6": {
     "old_names": [
       "_PUSH_SCALEFORM_MOVIE_FUNCTION_N",
-      " _BEGIN_SCALEFORM_MOVIE_METHOD_N"
+      "_BEGIN_SCALEFORM_MOVIE_METHOD_N"
     ]
   },
   "0xB9449845F73F5E9C": {
     "old_names": [
-      " _BEGIN_SCALEFORM_MOVIE_METHOD_V"
+      "_BEGIN_SCALEFORM_MOVIE_METHOD_V"
     ]
   },
   "0x98C494FD5BDFBFD5": {
@@ -579,13 +579,13 @@
   },
   "0x2DE7EFA66B906036": {
     "old_names": [
-      " _GET_SCALEFORM_MOVIE_FUNCTION_RETURN_INT"
+      "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_INT"
     ]
   },
   "0xE1E258829A885245": {
     "old_names": [
       "SITTING_TV",
-      " _GET_SCALEFORM_MOVIE_FUNCTION_RETURN_STRING"
+      "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_STRING"
     ]
   },
   "0x5CCABFFCA31DDE33": {
@@ -621,7 +621,7 @@
   },
   "0x768FF8961BA904D6": {
     "old_names": [
-      " _GET_SCALEFORM_MOVIE_FUNCTION_RETURN_BOOL"
+      "_GET_SCALEFORM_MOVIE_FUNCTION_RETURN_BOOL"
     ]
   },
   "0x0AD973CA1E077B60": {
@@ -662,25 +662,25 @@
   },
   "0xE3A3DB414A373DAB": {
     "old_names": [
-      " _SCREEN_DRAW_POSITION_END"
+      "_SCREEN_DRAW_POSITION_END"
     ]
   },
   "0xC58424BA936EB458": {
     "old_names": [
       "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_BOOL",
-      " _PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_BOOL"
+      "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_BOOL"
     ]
   },
   "0xD69736AAE04DB51A": {
     "old_names": [
       "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_FLOAT",
-      " _PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_FLOAT"
+      "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_FLOAT"
     ]
   },
   "0xC3D0841A0CC546A6": {
     "old_names": [
       "_PUSH_SCALEFORM_MOVIE_FUNCTION_PARAMETER_INT",
-      " _PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_INT"
+      "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_INT"
     ]
   },
   "0xEC52C631A1831C03": {
@@ -753,12 +753,12 @@
   "0xB8A850F20A067EB6": {
     "old_names": [
       "_SET_SCREEN_DRAW_POSITION",
-      " _SCREEN_DRAW_POSITION_BEGIN"
+      "_SCREEN_DRAW_POSITION_BEGIN"
     ]
   },
   "0xF5A2C681787E579D": {
     "old_names": [
-      " _SCREEN_DRAW_POSITION_RATIO"
+      "_SCREEN_DRAW_POSITION_RATIO"
     ]
   },
   "0x61BB1D9B3A95D802": {
@@ -774,12 +774,12 @@
   },
   "0x6F60E89A7B64EE1D": {
     "old_names": [
-      " _START_PARTICLE_FX_LOOPED_ON_ENTITY_2"
+      "_START_PARTICLE_FX_LOOPED_ON_ENTITY_2"
     ]
   },
   "0xDDE23F30CC5A0F03": {
     "old_names": [
-      " _START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE_2"
+      "_START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE_2"
     ]
   },
   "0xF56B8137DF10135D": {
@@ -914,7 +914,7 @@
   },
   "0xBFEFE3321A3F5015": {
     "old_names": [
-      " _CREATE_MP_GAMER_TAG"
+      "_CREATE_MP_GAMER_TAG"
     ]
   },
   "0x6DD05E9D83EFA4C9": {
@@ -1027,7 +1027,7 @@
   },
   "0x2B7E9A4EAAA93C89": {
     "old_names": [
-      " _SET_NOTIFICATION_MESSAGE_2"
+      "_SET_NOTIFICATION_MESSAGE_2"
     ]
   },
   "0x2ED7843F8F801023": {
@@ -1178,7 +1178,7 @@
   },
   "0xDD564BDD0472C936": {
     "old_names": [
-      " _ADD_FRONTEND_MENU_CONTEXT"
+      "_ADD_FRONTEND_MENU_CONTEXT"
     ]
   },
   "0x444D8CF241EC25C5": {
@@ -1331,17 +1331,17 @@
   },
   "0xDCFB5D4DB8BF367E": {
     "old_names": [
-      " SET_BLIP_CREW"
+      "SET_BLIP_CREW"
     ]
   },
   "0x23C3EB807312F01A": {
     "old_names": [
-      " SET_BLIP_FRIEND"
+      "SET_BLIP_FRIEND"
     ]
   },
   "0xB81656BC81FE24D1": {
     "old_names": [
-      " SET_BLIP_FRIENDLY"
+      "SET_BLIP_FRIENDLY"
     ]
   },
   "0x74513EA3E505181E": {
@@ -1621,7 +1621,7 @@
   },
   "0xD3D15555431AB793": {
     "old_names": [
-      " _IS_GAME_USING_METRIC_MEASUREMENT_SYSTEM"
+      "_IS_GAME_USING_METRIC_MEASUREMENT_SYSTEM"
     ]
   },
   "0x60FE567DF1B1AF9D": {
@@ -1666,7 +1666,7 @@
   },
   "0x6816FB4416760775": {
     "old_names": [
-      " _NETWORK_EARN_FROM_JOB_BONUS"
+      "_NETWORK_EARN_FROM_JOB_BONUS"
     ]
   },
   "0x13A8DE2FD77D04F3": {
@@ -2193,7 +2193,7 @@
   },
   "0x52AF537A0C5B8AAD": {
     "old_names": [
-      " _DOES_DES_OBJECT_EXIST"
+      "_DOES_DES_OBJECT_EXIST"
     ]
   },
   "0x6BAB9442830C7F53": {
@@ -2208,17 +2208,17 @@
   },
   "0xB48FCED898292E52": {
     "old_names": [
-      " _GET_DES_OBJECT"
+      "_GET_DES_OBJECT"
     ]
   },
   "0x260EE4FDBDF4DB01": {
     "old_names": [
-      " _GET_DES_OBJECT_ANIM_PROGRESS"
+      "_GET_DES_OBJECT_ANIM_PROGRESS"
     ]
   },
   "0x899BA936634A322E": {
     "old_names": [
-      " _GET_DES_OBJECT_STATE"
+      "_GET_DES_OBJECT_STATE"
     ]
   },
   "0x08F96CA6C551AD51": {
@@ -2253,7 +2253,7 @@
   },
   "0x5C29F698D404C5E1": {
     "old_names": [
-      " _SET_DES_OBJECT_STATE"
+      "_SET_DES_OBJECT_STATE"
     ]
   },
   "0xA571D46727E2B718": {
@@ -2315,7 +2315,7 @@
   },
   "0xB50EB4CCB29704AC": {
     "old_names": [
-      " _REMOVE_PED_SCUBA_GEAR_NOW"
+      "_REMOVE_PED_SCUBA_GEAR_NOW"
     ]
   },
   "0xD86D101FCFD00A4B": {
@@ -2546,13 +2546,13 @@
   },
   "0x2B3334BCA57CD799": {
     "old_names": [
-      " _SHAPE_TEST_RESULT_ENTITY"
+      "_SHAPE_TEST_RESULT_ENTITY"
     ]
   },
   "0x377906D8A31E5586": {
     "old_names": [
       "_CAST_RAY_POINT_TO_POINT",
-      " _START_SHAPE_TEST_RAY"
+      "_START_SHAPE_TEST_RAY"
     ]
   },
   "0x28579D1B8F8AAC80": {
@@ -2755,7 +2755,7 @@
   },
   "0xD0917A423314BBA8": {
     "old_names": [
-      " _GET_ARE_BOMB_BAY_DOORS_OPEN"
+      "_GET_ARE_BOMB_BAY_DOORS_OPEN"
     ]
   },
   "0x755D6D5267CBBD7E": {
@@ -2928,7 +2928,7 @@
   },
   "0x50634E348C8D44EF": {
     "old_names": [
-      " _HAS_VEHICLE_KERS_BOOST"
+      "_HAS_VEHICLE_KERS_BOOST"
     ]
   },
   "0xBC9CFF381338CB4F": {
@@ -3048,7 +3048,7 @@
   },
   "0x90B6DA738A9A25DA": {
     "old_names": [
-      " _SET_SOME_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME"
+      "_SET_SOME_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME"
     ]
   },
   "0x9CFA4896C3A53CBB": {
@@ -3166,7 +3166,7 @@
   },
   "0x068F64F2470F9656": {
     "old_names": [
-      " _SET_VEHICLE_CREATES_MONEY_PICKUPS_WHEN_EXPLODED"
+      "_SET_VEHICLE_CREATES_MONEY_PICKUPS_WHEN_EXPLODED"
     ]
   },
   "0x3AFDC536C3D01674": {
