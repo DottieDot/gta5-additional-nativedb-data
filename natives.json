@@ -1,0 +1,1846 @@
+{
+  "0x153973AB99FE8980": {
+    "old_names": [
+      "_DYNAMIC_MIXER_RELATED_FN"
+    ]
+  },
+  "0xB4F90FAF7670B16F": {
+    "old_names": [
+      "_DISABLE_POLICE_REPORTS"
+    ]
+  },
+  "0x552369F549563AD5": {
+    "old_names": [
+      "_FORCE_AMBIENT_SIREN"
+    ]
+  },
+  "0x4F0C413926060B38": {
+    "old_names": [
+      "_SET_VEHICLE_AUDIO"
+    ]
+  },
+  "0xACB5DCCA1EC76840": {
+    "old_names": [
+      "_GET_VEHICLE_HORN_HASH"
+    ]
+  },
+  "0xD53F3A29BCE2580E": {
+    "old_names": [
+      "0x22FECB546C276A30"
+    ]
+  },
+  "0x5F43D83FD6738741": {
+    "old_names": [
+      "_IS_PLAYER_VEHICLE_RADIO_ENABLED"
+    ]
+  },
+  "0x94f2e83ead7e6b82": {
+    "old_names": [
+      "_SET_RADIO_STATION_DISABLED"
+    ]
+  },
+  "0xED640017ED337E45": {
+    "old_names": [
+      "_PLAY_AMBIENT_SPEECH_AT_COORDS"
+    ]
+  },
+  "0x0350E7E17BA767D0": {
+    "old_names": [
+      "0xCDA42C4BB9BDE779"
+    ]
+  },
+  "0x7A73D05A607734C7": {
+    "old_names": [
+      "_SET_PED_MUTE"
+    ]
+  },
+  "0xDFC8CBC606FDB0FC": {
+    "old_names": [
+      "_GET_GAMEPLAY_CAM_FAR_CLIP"
+    ]
+  },
+  "0x9780F32BCAF72431": {
+    "old_names": [
+      "_GET_GAMEPLAY_CAM_FAR_DOF"
+    ]
+  },
+  "0x162F9D995753DC19": {
+    "old_names": [
+      "_GET_GAMEPLAY_CAM_FAR_CLIP_2"
+    ]
+  },
+  "0xD0082607100D7193": {
+    "old_names": [
+      "_GET_GAMEPLAY_CAM_NEAR_CLIP"
+    ]
+  },
+  "0xA03502FC581F7D9B": {
+    "old_names": [
+      "_GET_GAMEPLAY_CAM_NEAR_DOF"
+    ]
+  },
+  "0x0AF7B437918103B3": {
+    "old_names": [
+      "_SET_FIRST_PERSON_CAM_NEAR_CLIP"
+    ]
+  },
+  "0xF9D02130ECDD1D77": {
+    "old_names": [
+      "_SET_CAMERA_RANGE"
+    ]
+  },
+  "0xD1F8363DFAD03848": {
+    "old_names": [
+      "_SET_GAMEPLAY_HINT_ANGLE"
+    ]
+  },
+  "0xF8BDBF3D573049A1": {
+    "old_names": [
+      "_SET_GAMEPLAY_HINT_ANIM_OFFSETZ"
+    ]
+  },
+  "0x42156508606DE65E": {
+    "old_names": [
+      "_SET_THIRD_PERSON_AIM_CAM_NEAR_CLIP"
+    ]
+  },
+  "0xC819F3CBB62BF692": {
+    "old_names": [
+      "_RENDER_FIRST_PERSON_CAM"
+    ]
+  },
+  "0xC23DE0E91C30B58C": {
+    "old_names": [
+      "_REQUEST_CUTSCENE_EX"
+    ]
+  },
+  "0xD7C10C4A637992C9": {
+    "old_names": [
+      "_LOAD_SP_DLC_MAPS"
+    ]
+  },
+  "0x46F8696933A63C9B": {
+    "old_names": [
+      "_GET_WORLD_POSITION_OF_ENTITY_BONE_2"
+    ]
+  },
+  "0xCE6294A232D03786": {
+    "old_names": [
+      "_GET_WORLD_ROTATION_OF_ENTITY_BONE"
+    ]
+  },
+  "0xCCF1E97BEFDAE480": {
+    "old_names": [
+      "_GET_ENTITY_COLLISON_DISABLED"
+    ]
+  },
+  "0x3910051CCECDB00C": {
+    "old_names": [
+      "_SET_ENTITY_REGISTER",
+      "_SET_ENTITY_SOMETHING"
+    ]
+  },
+  "0x9EBC85ED0FFFE51C": {
+    "old_names": [
+      "_SET_ENTITY_COLLISION_2"
+    ]
+  },
+  "0x278F76C3B0A8F109": {
+    "old_names": [
+      "_GET_NUM_DECORATIONS"
+    ]
+  },
+  "0xFF56381874F82086": {
+    "old_names": [
+      "_GET_TATTOO_COLLECTION_DATA"
+    ]
+  },
+  "0xAB58C27C2E6123C6": {
+    "old_names": [
+      "_PUSH_SCALEFORM_MOVIE_FUNCTION_N",
+      " _BEGIN_SCALEFORM_MOVIE_METHOD_N"
+    ]
+  },
+  "0xB9449845F73F5E9C": {
+    "old_names": [
+      " _BEGIN_SCALEFORM_MOVIE_METHOD_V"
+    ]
+  },
+  "0x27CB772218215325": {
+    "old_names": [
+      "_CASCADESHADOWS_RESET_TYPE"
+    ]
+  },
+  "0xB11D94BC55F41932": {
+    "old_names": [
+      "_CASCADESHADOWS_SET_TYPE"
+    ]
+  },
+  "0xDE81239437E8C5A8": {
+    "old_names": [
+      "PAUSED_SCREENBLUR_LOADED"
+    ]
+  },
+  "0x1CE592FDC749D6F5": {
+    "old_names": [
+      "_DRAW_SCALEFORM_MOVIE_3D_NON_ADDITIVE"
+    ]
+  },
+  "0x473151EBC762C6DA": {
+    "old_names": [
+      "_GET_NUMBER_OF_PHOTOS",
+      "_GET_CURRENT_NUMBER_OF_PHOTOS"
+    ]
+  },
+  "0xDC54A7AF8B3A14EF": {
+    "old_names": [
+      "_GET_MAXIMUM_NUMBER_OF_PHOTOS_2"
+    ]
+  },
+  "0x2DE7EFA66B906036": {
+    "old_names": [
+      " _GET_SCALEFORM_MOVIE_FUNCTION_RETURN_INT"
+    ]
+  },
+  "0x0C1C5D756FB5F337": {
+    "old_names": [
+      "_HAS_NAMED_SCALEFORM_MOVIE_LOADED"
+    ]
+  },
+  "0x768FF8961BA904D6": {
+    "old_names": [
+      " _GET_SCALEFORM_MOVIE_FUNCTION_RETURN_BOOL"
+    ]
+  },
+  "0x0AD973CA1E077B60": {
+    "old_names": [
+      "_LOAD_TV_CHANNEL"
+    ]
+  },
+  "0x8A35C742130C6080": {
+    "old_names": [
+      "_ADD_DECAL_TO_MARKER",
+      "_OVERRIDE_DECAL_TEXTURE"
+    ]
+  },
+  "0xD7021272EB0A451E": {
+    "old_names": [
+      "_PRESET_INTERIOR_AMBIENT_CACHE"
+    ]
+  },
+  "0x9304881D6F6537EA": {
+    "old_names": [
+      "_REQUEST_HUD_SCALEFORM"
+    ]
+  },
+  "0x89C8553DD3274AAE": {
+    "old_names": [
+      "_RESET_PARTICLE_FX_ASSET_OLD_TO_NEW"
+    ]
+  },
+  "0xE3A3DB414A373DAB": {
+    "old_names": [
+      " _SCREEN_DRAW_POSITION_END"
+    ]
+  },
+  "0xEC52C631A1831C03": {
+    "old_names": [
+      "_SCALEFORM_MOVIE_METHOD_ADD_PARAM_INT_STRING"
+    ]
+  },
+  "0xE83A3E3557A56640": {
+    "old_names": [
+      "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_BUTTON_NAME"
+    ]
+  },
+  "0x77FE3402004CD1B0": {
+    "old_names": [
+      "_PUSH_SCALEFORM_MOVIE_METHOD_PARAMETER_STRING_2"
+    ]
+  },
+  "0xBA3D65906822BED5": {
+    "old_names": [
+      "_SET_HIDOF_ENV_BLUR_PARAMS"
+    ]
+  },
+  "0xF5A2C681787E579D": {
+    "old_names": [
+      " _SCREEN_DRAW_POSITION_RATIO"
+    ]
+  },
+  "0x61BB1D9B3A95D802": {
+    "old_names": [
+      "_SET_2D_LAYER",
+      "_SET_UI_LAYER"
+    ]
+  },
+  "0xF7B38B8305F1FE8B": {
+    "old_names": [
+      "_LOAD_TV_CHANNEL_SEQUENCE"
+    ]
+  },
+  "0x6F60E89A7B64EE1D": {
+    "old_names": [
+      " _START_PARTICLE_FX_LOOPED_ON_ENTITY_2"
+    ]
+  },
+  "0xDDE23F30CC5A0F03": {
+    "old_names": [
+      " _START_PARTICLE_FX_LOOPED_ON_ENTITY_BONE_2"
+    ]
+  },
+  "0xB7ED70C49521A61D": {
+    "old_names": [
+      "_UNDO_DECAL_TEXTURE_OVERRIDE"
+    ]
+  },
+  "0xDEADC0DEDEADC0DE": {
+    "old_names": [
+      "_ENTITY_DESCRIPTION_TEXT"
+    ]
+  },
+  "0x761B77454205A61D": {
+    "old_names": [
+      "_ADD_TEXT_COMPONENT_APP_TITLE"
+    ]
+  },
+  "0xABA17D7CE615ADBF": {
+    "old_names": [
+      "_SET_LOADING_PROMPT_TEXT_ENTRY",
+      "_BEGIN_TEXT_COMMAND_BUSY_STRING"
+    ]
+  },
+  "0x8F9EE5687F8EECCD": {
+    "old_names": [
+      "_BEGIN_TEXT_COMMAND_TIMER"
+    ]
+  },
+  "0xD422FCC5F239A915": {
+    "old_names": [
+      "_IS_LOADING_PROMPT_BEING_DISPLAYED"
+    ]
+  },
+  "0x10D373323E5B9C0D": {
+    "old_names": [
+      "_REMOVE_LOADING_PROMPT"
+    ]
+  },
+  "0xBFEFE3321A3F5015": {
+    "old_names": [
+      " _CREATE_MP_GAMER_TAG"
+    ]
+  },
+  "0x6DD05E9D83EFA4C9": {
+    "old_names": [
+      "_CREATE_MP_GAMER_TAG_COLOR",
+      "_SET_MP_GAMER_TAG_COLOR",
+      "_CREATE_MP_GAMER_TAG_FOR_NET_PLAYER"
+    ]
+  },
+  "0xBD12F8228410D9B4": {
+    "old_names": [
+      "_SHOW_LOADING_PROMPT",
+      "_END_TEXT_COMMAND_BUSY_STRING"
+    ]
+  },
+  "0x9040DFB09BE75706": {
+    "old_names": [
+      "_GET_TEXT_SCREEN_LINE_COUNT",
+      "_END_TEXT_COMMAND_GET_LINE_COUNT"
+    ]
+  },
+  "0xA86911979638106F": {
+    "old_names": [
+      "_END_TEXT_COMMAND_TIMER"
+    ]
+  },
+  "0xAA295B6F28BD587D": {
+    "old_names": [
+      "_DRAW_NOTIFICATION_ICON",
+      "_DRAW_NOTIFICATION_AWARD"
+    ]
+  },
+  "0x97C9E4E7024A8F2C": {
+    "old_names": [
+      "_NOTIFICATION_SEND_APARTMENT_INVITE",
+      "_DRAW_NOTIFICATION_APARTMENT_INVITE"
+    ]
+  },
+  "0x137BC35589E34E1E": {
+    "old_names": [
+      "_NOTIFICATION_SEND_CLAN_INVITE",
+      "_DRAW_NOTIFICATION_CLAN_INVITE"
+    ]
+  },
+  "0xC6F580E4C94926AC": {
+    "old_names": [
+      "_SET_NOTIFICATION_MESSAGE_3",
+      "_END_TEXT_COMMAND_THEFEED_POST_MESSAGETEXT_ENTRY"
+    ]
+  },
+  "0x1E6611149DB3DB6B": {
+    "old_names": [
+      "_SET_NOTIFICATION_MESSAGE_4"
+    ]
+  },
+  "0xD202B92CBF1D816F": {
+    "old_names": [
+      "_DRAW_NOTIFICATION_WITH_ICON"
+    ]
+  },
+  "0xDD6CB2CCE7C2735C": {
+    "old_names": [
+      "_DRAW_NOTIFICATION_WITH_BUTTON"
+    ]
+  },
+  "0x2B7E9A4EAAA93C89": {
+    "old_names": [
+      " _SET_NOTIFICATION_MESSAGE_2"
+    ]
+  },
+  "0xCEF214315D276FD1": {
+    "old_names": [
+      "_SET_IS_IN_TOURNAMENT"
+    ]
+  },
+  "0x2309595AD6145265": {
+    "old_names": [
+      "_GET_CURRENT_FRONTEND_MENU"
+    ]
+  },
+  "0x01A358D9128B7A86": {
+    "old_names": [
+      "_GET_ACTIVE_WEBSITE_ID"
+    ]
+  },
+  "0xF9904D11F1ACBEC3": {
+    "old_names": [
+      "_GET_2D_COORD_FROM_3D_COORD"
+    ]
+  },
+  "0x43E4111189E54F0E": {
+    "old_names": [
+      "_GET_LENGTH_OF_STRING"
+    ]
+  },
+  "0x6E31B91145873922": {
+    "old_names": [
+      "_IS_MINIMAP_AREA_REVEALED"
+    ]
+  },
+  "0xE0130B41D3CF4574": {
+    "old_names": [
+      "_GET_MINIMAP_REVEAL_PERCENTAGE"
+    ]
+  },
+  "0xDB88A37483346780": {
+    "old_names": [
+      "_GET_TEXT_SCALE_HEIGHT"
+    ]
+  },
+  "0x4A9923385BDB9DAD": {
+    "old_names": [
+      "_GET_LEVEL_BLIP_SPRITE"
+    ]
+  },
+  "0xEB354E5376BC81A7": {
+    "old_names": [
+      "_SHOW_WEAPON_WHEEL"
+    ]
+  },
+  "0x72C1056D678BB7D8": {
+    "old_names": [
+      "_HUD_WEAPON_WHEEL_SET_SLOT_HASH"
+    ]
+  },
+  "0xAF754F20EB5CD51A": {
+    "old_names": [
+      "_IS_RADAR_ENABLED"
+    ]
+  },
+  "0x6E0EB3EB47C8D7AA": {
+    "old_names": [
+      "_HAS_MP_GAMER_TAG"
+    ]
+  },
+  "0xEB709A36958ABE0D": {
+    "old_names": [
+      "_HAS_MP_GAMER_TAG_2",
+      "_HAS_MP_GAMER_TAG_CREW_FLAGS_SET"
+    ]
+  },
+  "0x523A590C1A3CC0D3": {
+    "old_names": [
+      "_DISPLAY_JOB_REPORT"
+    ]
+  },
+  "0xDD564BDD0472C936": {
+    "old_names": [
+      " _ADD_FRONTEND_MENU_CONTEXT"
+    ]
+  },
+  "0x5354C5BA2EA868A4": {
+    "old_names": [
+      "_SET_MAP_FULL_SCREEN"
+    ]
+  },
+  "0x1CCC708F0F850613": {
+    "old_names": [
+      "_SET_HUD_COLOURS_SWITCH"
+    ]
+  },
+  "0xF314CF4F0211894E": {
+    "old_names": [
+      "_SET_HUD_COLOUR"
+    ]
+  },
+  "0x39BBF623FC803EAC": {
+    "old_names": [
+      "_SET_NOTIFICATION_COLOR_NEXT"
+    ]
+  },
+  "0xF8DEE0A5600CBB93": {
+    "old_names": [
+      "_SET_MINIMAP_REVEALED"
+    ]
+  },
+  "0x8DB8CFFD58B62552": {
+    "old_names": [
+      "_SET_CURSOR_SPRITE"
+    ]
+  },
+  "0x7B7723747CCB55B6": {
+    "old_names": [
+      "_SET_MP_GAMER_TAG_CHATTING"
+    ]
+  },
+  "0xEE76FF7E6A0166B0": {
+    "old_names": [
+      "_SET_MP_GAMER_TAG_",
+      "_SET_MP_GAMER_TAG"
+    ]
+  },
+  "0x3158C77A7E888AB4": {
+    "old_names": [
+      "_SET_MP_GAMER_TAG_HEALTH_BAR_COLOR"
+    ]
+  },
+  "0x9B9AA95688F78DD3": {
+    "old_names": [
+      "_SET_MP_GAMER_TAG_UNK"
+    ]
+  },
+  "0x0C4BBF625CA98C4E": {
+    "old_names": [
+      "_IS_AI_BLIP_ALWAYS_SHOWN"
+    ]
+  },
+  "0xE52B8E7F85D39A08": {
+    "old_names": [
+      "_SET_AI_BLIP_TYPE"
+    ]
+  },
+  "0x97C65887D4B37FA9": {
+    "old_names": [
+      "_SET_AI_BLIP_MAX_DISTANCE"
+    ]
+  },
+  "0xD30C50DF888D58B5": {
+    "old_names": [
+      "_SET_PED_ENEMY_AI_BLIP",
+      "_SET_PED_AI_BLIP"
+    ]
+  },
+  "0x808519373FD336A3": {
+    "old_names": [
+      "_SET_DIRECTOR_MODE"
+    ]
+  },
+  "0x15803FEC3B9A872B": {
+    "old_names": [
+      "_DRAW_FRONTEND_ALERT"
+    ]
+  },
+  "0xDCFB5D4DB8BF367E": {
+    "old_names": [
+      " SET_BLIP_CREW"
+    ]
+  },
+  "0x23C3EB807312F01A": {
+    "old_names": [
+      " SET_BLIP_FRIEND"
+    ]
+  },
+  "0xB81656BC81FE24D1": {
+    "old_names": [
+      " SET_BLIP_FRIENDLY"
+    ]
+  },
+  "0x74513EA3E505181E": {
+    "old_names": [
+      "_SET_BLIP_CHECKED"
+    ]
+  },
+  "0x80FE4F3AB4E1B62A": {
+    "old_names": [
+      "_THEFEED_FLUSH_PERSISTENT"
+    ]
+  },
+  "0xADED7F5748ACAFE6": {
+    "old_names": [
+      "_THEFEED_SHOW_GTAO_TOOLTIPS"
+    ]
+  },
+  "0x32888337579A5970": {
+    "old_names": [
+      "_THEFEED_DISABLE"
+    ]
+  },
+  "0x15CFA549788D35EF": {
+    "old_names": [
+      "_THEFEED_ENABLE"
+    ]
+  },
+  "0x583049884A2EEE3C": {
+    "old_names": [
+      "_THEFEED_HIDE_GTAO_TOOLTIPS"
+    ]
+  },
+  "0xFDEC055AB549E328": {
+    "old_names": [
+      "_THEFEED_SET_NEXT_POST_PERSISTENT"
+    ]
+  },
+  "0x82352748437638CA": {
+    "old_names": [
+      "_GET_CURRENT_NOTIFICATION",
+      "_THEFEED_GET_CURRENT_NOTIFICATION"
+    ]
+  },
+  "0x25F87B30C382FCA7": {
+    "old_names": [
+      "_HIDE_HUD_NOTIFICATIONS_THIS_FRAME"
+    ]
+  },
+  "0xFDD85225B2DEA55E": {
+    "old_names": [
+      "_THEFEED_CLEAR_ANIMPOSTFX"
+    ]
+  },
+  "0x17430B918701C342": {
+    "old_names": [
+      "_SET_NOTIFICATION_FLASH_COLOR"
+    ]
+  },
+  "0x92F0DA1E27DB96DC": {
+    "old_names": [
+      "_SET_NOTIFICATION_BACKGROUND_COLOR",
+      "_THEFEED_NEXT_POST_BACKGROUND_COLOR"
+    ]
+  },
+  "0x55598D21339CB998": {
+    "old_names": [
+      "_CLEAR_NOTIFICATIONS_POS"
+    ]
+  },
+  "0xB695E2CD0A2DA9EE": {
+    "old_names": [
+      "_THEFEED_DISABLE_BASELINE_OFFSET"
+    ]
+  },
+  "0xD4438C0564490E63": {
+    "old_names": [
+      "_THEFEED_ENABLE_BASELINE_OFFSET"
+    ]
+  },
+  "0x55E86AF2712B36A1": {
+    "old_names": [
+      "_ENABLE_INTERIOR_PROP"
+    ]
+  },
+  "0x420BD37289EEE162": {
+    "old_names": [
+      "_DISABLE_INTERIOR_PROP"
+    ]
+  },
+  "0xA97F257D0151A6AB": {
+    "old_names": [
+      "_HIDE_MAP_OBJECT_THIS_FRAME"
+    ]
+  },
+  "0xF0F77ADB9F67E79D": {
+    "old_names": [
+      "_UNK_GET_INTERIOR_AT_COORDS"
+    ]
+  },
+  "0xA6575914D2A0B450": {
+    "old_names": [
+      "_GET_ROOM_KEY_FROM_GAMEPLAY_CAM"
+    ]
+  },
+  "0xEEA5AC2EDA7C33E8": {
+    "old_names": [
+      "_ARE_COORDS_COLLIDING_WITH_EXTERIOR"
+    ]
+  },
+  "0x35F7DD45E8C0A16D": {
+    "old_names": [
+      "_IS_INTERIOR_PROP_ENABLED"
+    ]
+  },
+  "0x2CA429C029CCF247": {
+    "old_names": [
+      "_LOAD_INTERIOR"
+    ]
+  },
+  "0xC6DC823253FBB366": {
+    "old_names": [
+      "_IS_UI_LOADING_MULTIPLAYER"
+    ]
+  },
+  "0xFC309E94546FCDB5": {
+    "old_names": [
+      "_IS_IN_LOADING_SCREEN"
+    ]
+  },
+  "0x957838AAF91BD12D": {
+    "old_names": [
+      "_CLEAR_AREA_OF_EVERYTHING"
+    ]
+  },
+  "0xA2716D40842EAF79": {
+    "old_names": [
+      "_SET_NEXT_RESPAWN_TO_CUSTOM"
+    ]
+  },
+  "0xCA78CFA0366592FE": {
+    "old_names": [
+      "_DISPLAY_ONSCREEN_KEYBOARD_2"
+    ]
+  },
+  "0x8D7A43EC6A5FEA45": {
+    "old_names": [
+      "_GET_IS_PROJECTILE_TYPE_IN_AREA"
+    ]
+  },
+  "0xDFB4138EEFED7B81": {
+    "old_names": [
+      "_GET_PROJECTILE_NEAR_PED_COORDS"
+    ]
+  },
+  "0x8BDC7BFC57A81E76": {
+    "old_names": [
+      "_GET_GROUND_Z_COORD_WITH_OFFSETS"
+    ]
+  },
+  "0xEB4A0C2D56441717": {
+    "old_names": [
+      "_GET_NUMBER_OF_DISPATCHED_UNITS_FOR_PLAYER"
+    ]
+  },
+  "0x34318593248C8FB2": {
+    "old_names": [
+      "_IS_PROJECTILE_TYPE_IN_RADIUS"
+    ]
+  },
+  "0x4EBB7E87AA0DBED4": {
+    "old_names": [
+      "_SHOW_PED_IN_PAUSE_MENU"
+    ]
+  },
+  "0x706B5EDCAA7FA663": {
+    "old_names": [
+      "_SET_CUSTOM_RESPAWN_POSITION"
+    ]
+  },
+  "0xE3A7742E0B7A2F8B": {
+    "old_names": [
+      "_SHOOT_SINGLE_BULLET_BETWEEN_COORDS_PRESET_PARAMS"
+    ]
+  },
+  "0xBFE5756E7407064A": {
+    "old_names": [
+      "_SHOOT_SINGLE_BULLET_BETWEEN_COORDS_WITH_EXTRA_PARAMS"
+    ]
+  },
+  "0xD3D15555431AB793": {
+    "old_names": [
+      " _IS_GAME_USING_METRIC_MEASUREMENT_SYSTEM"
+    ]
+  },
+  "0x015C49A93E3E086E": {
+    "old_names": [
+      "_DISABLE_PHONE_THIS_FRAME"
+    ]
+  },
+  "0xFB6DB092FBAE29E6": {
+    "old_names": [
+      "_NETWORK_EARN_FROM_AMBIENT_JOB"
+    ]
+  },
+  "0x61326EE6DF15B0CA": {
+    "old_names": [
+      "NETWORK_EARN_FROM_MISSION_H"
+    ]
+  },
+  "0x6EA318C91C1A8786": {
+    "old_names": [
+      "_NETWORK_EARN_FROM_DAILY_OBJECTIVE"
+    ]
+  },
+  "0x6816FB4416760775": {
+    "old_names": [
+      " _NETWORK_EARN_FROM_JOB_BONUS"
+    ]
+  },
+  "0xA6FA3979BED01B81": {
+    "old_names": [
+      "_NETWORK_GET_BANK_BALANCE_STRING"
+    ]
+  },
+  "0x9D26502BB97BFE62": {
+    "old_names": [
+      "_NETWORK_SPENT_REQUEST_HEIST"
+    ]
+  },
+  "0xF30980718C8ED876": {
+    "old_names": [
+      "_NETWORK_SHOP_BASKET_ADD_ITEM"
+    ]
+  },
+  "0xE1A0450ED46A7812": {
+    "old_names": [
+      "_NETWORK_SHOP_BASKET_APPLY_SERVER_DATA"
+    ]
+  },
+  "0xA65568121DF2EA26": {
+    "old_names": [
+      "0xE547E9114277098F",
+      "_NETWORK_SHOP_BASKET_END"
+    ]
+  },
+  "0x27F76CC6C55AD30E": {
+    "old_names": [
+      "_NETWORK_SHOP_BASKET_IS_FULL"
+    ]
+  },
+  "0x3C5FD37B5499582E": {
+    "old_names": [
+      "_NETWORK_SHOP_BEGIN_SERVICE"
+    ]
+  },
+  "0xBD4D7EAF8A30F637": {
+    "old_names": [
+      "_NETWORK_SHOP_IS_ITEM_UNLOCKED",
+      "_NETWORK_SHOP_DOES_ITEM_EXIST"
+    ]
+  },
+  "0x247F0F73A182EA0B": {
+    "old_names": [
+      "_NETWORK_SHOP_IS_ITEM_UNLOCKED_HASH",
+      "_NETWORK_SHOP_DOES_ITEM_EXIST_HASH"
+    ]
+  },
+  "0x39BE7CEA8D9CC8E6": {
+    "old_names": [
+      "_NETWORK_SHOP_CHECKOUT_START"
+    ]
+  },
+  "0x112CEF1615A1139F": {
+    "old_names": [
+      "_NETWORK_SHOP_DELETE_SET_TELEMETRY_NONCE_SEED"
+    ]
+  },
+  "0xE2A99A9B524BEFFF": {
+    "old_names": [
+      "_NETWORK_SHOP_END_SERVICE",
+      "_NETWORK_SHOP_TERMINATE_SERVICE"
+    ]
+  },
+  "0x810E8431C0614BF9": {
+    "old_names": [
+      "_NETWORK_SHOP_GET_TRANSACTIONS_DISABLED"
+    ]
+  },
+  "0xB24F0944DA203D9E": {
+    "old_names": [
+      "_NETWORK_SHOP_GET_TRANSACTIONS_ENABLED_FOR_CHARACTER"
+    ]
+  },
+  "0x2F41D51BA3BCD1F1": {
+    "old_names": [
+      "_NETWORK_SHOP_SESSION_APPLY_RECEIVED_DATA"
+    ]
+  },
+  "0x9507D4271988E1AE": {
+    "old_names": [
+      "_NETWORK_SHOP_SET_TELEMETRY_NONCE_SEED"
+    ]
+  },
+  "0xA135AC892A58FC07": {
+    "old_names": [
+      "_NETWORK_SHOP_START_SESSION"
+    ]
+  },
+  "0xD47A2C1BA117471D": {
+    "old_names": [
+      "_NETWORK_TRANSFER_BANK_TO_WALLET"
+    ]
+  },
+  "0x498C1E05CE5F7877": {
+    "old_names": [
+      "_NETWORK_SHOP_CASH_TRANSFER_SET_TELEMETRY_NONCE_SEED"
+    ]
+  },
+  "0xC2F7FE5309181C7D": {
+    "old_names": [
+      "_NETWORK_TRANSFER_WALLET_TO_BANK"
+    ]
+  },
+  "0x4F18196C8D38768D": {
+    "old_names": [
+      "_DOWNLOAD_CHECK"
+    ]
+  },
+  "0x8BD6C6DEA20E82C6": {
+    "old_names": [
+      "_GET_STATUS_OF_TEXTURE_DOWNLOAD"
+    ]
+  },
+  "0x21D04D7BC538C146": {
+    "old_names": [
+      "_IS_ENTITY_A_GHOST"
+    ]
+  },
+  "0xA1607996431332DF": {
+    "old_names": [
+      "_NETWORK_CAN_NETWORK_ID_BE_SEEN"
+    ]
+  },
+  "0xEA16B69D93D71A45": {
+    "old_names": [
+      "_NETWORK_ACCESS_TUNABLE_BOOL_HASH"
+    ]
+  },
+  "0x972BC203BBC4C4D5": {
+    "old_names": [
+      "_NETWORK_ACCESS_TUNABLE_FLOAT_HASH"
+    ]
+  },
+  "0x40FCE03E50E8DBE8": {
+    "old_names": [
+      "_NETWORK_ACCESS_TUNABLE_INT_HASH"
+    ]
+  },
+  "0x376C6375BA60293A": {
+    "old_names": [
+      "_NETWORK_ADD_ENTITY_ANGLED_AREA"
+    ]
+  },
+  "0x99B72C7ABDE5C910": {
+    "old_names": [
+      "_NETWORK_COPY_PED_BLEND_DATA"
+    ]
+  },
+  "0xCFEB8AF24FC1D0BB": {
+    "old_names": [
+      "_NETWORK_BLOCK_INVITES_2"
+    ]
+  },
+  "0x5835D9CD92E83184": {
+    "old_names": [
+      "_NETWORK_GET_PLAYER_CREW_EMBLEM_TXD_NAME"
+    ]
+  },
+  "0x1F471B79ACC90BEF": {
+    "old_names": [
+      "_GET_NUM_MEMBERSHIP_DESC",
+      "_NETWORK_CLAN_GET_NUM_MEMBERSHIP_DESC"
+    ]
+  },
+  "0x02C40BF885C567B6": {
+    "old_names": [
+      "_NETWORK_UNLINK_NETWORKED_SYNCHRONISED_SCENE"
+    ]
+  },
+  "0xE4E53E1419D81127": {
+    "old_names": [
+      "_NETWORK_DOES_TUNABLE_EXIST_HASH"
+    ]
+  },
+  "0xE532D6811B3A4D2A": {
+    "old_names": [
+      "NETWORK_X_AFFECTS_GAMERS"
+    ]
+  },
+  "0x187382F8A3E0A6C3": {
+    "old_names": [
+      "_GET_TUNABLES_CONTENT_MODIFIER_ID"
+    ]
+  },
+  "0x4CACA84440FA26F6": {
+    "old_names": [
+      "_NETWORK_GET_DESROYER_OF_ENTITY"
+    ]
+  },
+  "0x6D03BFBD643B2A02": {
+    "old_names": [
+      "_NETWORK_GET_SERVER_TIME"
+    ]
+  },
+  "0xE30CF56F1EFA5F43": {
+    "old_names": [
+      "_NETWORK_GET_RANDOM_INT_IN_RANGE"
+    ]
+  },
+  "0x10BD227A753B0D84": {
+    "old_names": [
+      "_NETWORK_GET_TUNABLES_VERSION"
+    ]
+  },
+  "0x58575AC3CF2CA8EC": {
+    "old_names": [
+      "_NETWORK_HASH_FROM_GAMER_HANDLE"
+    ]
+  },
+  "0xBC1D768F2F5D6C05": {
+    "old_names": [
+      "_NETWORK_HASH_FROM_PLAYER_HANDLE"
+    ]
+  },
+  "0xC22912B1D85F26B1": {
+    "old_names": [
+      "_NETWORK_GET_BAN_DATA"
+    ]
+  },
+  "0x85443FF4C328F53B": {
+    "old_names": [
+      "_NETWORK_ARE_ROS_AVAILABLE",
+      "NETWORK_HAVE_JUST_UPLOAD_LATER"
+    ]
+  },
+  "0x422D396F80A96547": {
+    "old_names": [
+      "_NETWORK_GET_ROS_PRIVILEGE_4"
+    ]
+  },
+  "0x606E4D3E3CCCF3EB": {
+    "old_names": [
+      "_NETWORK_GET_ROS_PRIVILEGE_10"
+    ]
+  },
+  "0x8132C0EB8B2B3293": {
+    "old_names": [
+      "_HAS_BG_SCRIPT_BEEN_DOWNLOADED",
+      "_NETWORK_IS_CLOUD_BACKGROUND_SCRIPTS_REQUEST_PENDING"
+    ]
+  },
+  "0xC01E93FAC20C3346": {
+    "old_names": [
+      "_NETWORK_HAS_CONTROL_OF_PAVEMENT_STATS"
+    ]
+  },
+  "0x87EB7A3FFCB314DB": {
+    "old_names": [
+      "_NETWORK_IS_FRIEND_ONLINE_2"
+    ]
+  },
+  "0xD1110739EEADB592": {
+    "old_names": [
+      "_NETWORK_SET_THIS_SCRIPT_MARKED"
+    ]
+  },
+  "0x0467C11ED88B7D28": {
+    "old_names": [
+      "_HAS_TUNABLES_BEEN_DOWNLOADED"
+    ]
+  },
+  "0x97DD4C5944CC2E6A": {
+    "old_names": [
+      "_NETWORK_OVERRIDE_SEND_RESTRICTIONS"
+    ]
+  },
+  "0x57B192B4D4AD23D5": {
+    "old_names": [
+      "_NETWORK_CHAT_MUTE"
+    ]
+  },
+  "0x172F75B6EE2233BA": {
+    "old_names": [
+      "_NETWORK_PLAYER_IS_UNK"
+    ]
+  },
+  "0x565E430DB3B05BEC": {
+    "old_names": [
+      "_NETWORK_PLAYER_SOMETHING"
+    ]
+  },
+  "0x85A0EF54A500882C": {
+    "old_names": [
+      "_NETWORK_GET_GAMER_STATUS"
+    ]
+  },
+  "0x924426BFFD82E915": {
+    "old_names": [
+      "_NETWORK_REQUEST_CLOUD_BACKGROUND_SCRIPTS"
+    ]
+  },
+  "0xC3C7A6AFDB244624": {
+    "old_names": [
+      "_NETWORK_SEND_PRESENCE_INVITE"
+    ]
+  },
+  "0x56CE820830EF040B": {
+    "old_names": [
+      "_NETWORK_SESSION_GET_UNK"
+    ]
+  },
+  "0x49EC8030F5015F8B": {
+    "old_names": [
+      "_NETWORK_SCTV_SLOTS"
+    ]
+  },
+  "0x8B6A4DD0AF9CE215": {
+    "old_names": [
+      "_NETWORK_SESSION_SET_MAX_PLAYERS"
+    ]
+  },
+  "0xC19F6C8E7865A6FF": {
+    "old_names": [
+      "_NETWORK_SESSION_HOSTED"
+    ]
+  },
+  "0xABD5E88B8A2D3DB2": {
+    "old_names": [
+      "_NETWORK_VOICE_CONNECT_TO_PLAYER"
+    ]
+  },
+  "0x796A87B3B68D1F3D": {
+    "old_names": [
+      "_NETWORK_CHECK_DATA_MANAGER_FOR_HANDLE"
+    ]
+  },
+  "0xF1CA12B18AEF5298": {
+    "old_names": [
+      "_NETWORK_SET_ENTITY_VISIBLE_TO_NETWORK"
+    ]
+  },
+  "0x3E200C2BCF4164EB": {
+    "old_names": [
+      "_NETWORK_SET_RICH_PRESENCE_2"
+    ]
+  },
+  "0xC7420099936CE286": {
+    "old_names": [
+      "_NETWORK_ACCESS_TUNABLE_BOOL_HASH_FAIL_VAL"
+    ]
+  },
+  "0xA8A024587329F36A": {
+    "old_names": [
+      "_SET_NETWORK_ID_SYNC_TO_PLAYER"
+    ]
+  },
+  "0x6274C4712850841E": {
+    "old_names": [
+      "_SET_NETWORK_OBJECT_NON_CONTACT"
+    ]
+  },
+  "0x46FB3ED415C7641C": {
+    "old_names": [
+      "_NETWORK_IS_PLAYER_IN_SCRIPT"
+    ]
+  },
+  "0xA7BAB11E7C9C6C5A": {
+    "old_names": [
+      "_GET_CONTENT_CATEGORY"
+    ]
+  },
+  "0x7CF0448787B23758": {
+    "old_names": [
+      "_GET_CONTENT_DESCRIPTION_HASH"
+    ]
+  },
+  "0x37025B27D9B658B1": {
+    "old_names": [
+      "_GET_CONTENT_FILE_VERSION"
+    ]
+  },
+  "0x55AA95F481D694D2": {
+    "old_names": [
+      "_GET_CONTENT_ID"
+    ]
+  },
+  "0xBAF6BABF9E7CCC13": {
+    "old_names": [
+      "_UGC_GET_CLOUD_PATH"
+    ]
+  },
+  "0xCD67AD041A394C9C": {
+    "old_names": [
+      "_GET_CONTENT_USER_ID",
+      "GET_PLAYER_ADVANCED_MODIFIER_PRIVILEGES"
+    ]
+  },
+  "0xC0173D6BFF4E0348": {
+    "old_names": [
+      "_GET_ROOT_CONTENT_ID"
+    ]
+  },
+  "0x52AF537A0C5B8AAD": {
+    "old_names": [
+      " _DOES_DES_OBJECT_EXIST"
+    ]
+  },
+  "0x6BAB9442830C7F53": {
+    "old_names": [
+      "_SET_DOOR_ACCELERATION_LIMIT"
+    ]
+  },
+  "0xB6E6FBA95C7324AC": {
+    "old_names": [
+      "_SET_DOOR_AJAR_ANGLE"
+    ]
+  },
+  "0xB48FCED898292E52": {
+    "old_names": [
+      " _GET_DES_OBJECT"
+    ]
+  },
+  "0x260EE4FDBDF4DB01": {
+    "old_names": [
+      " _GET_DES_OBJECT_ANIM_PROGRESS"
+    ]
+  },
+  "0x899BA936634A322E": {
+    "old_names": [
+      " _GET_DES_OBJECT_STATE"
+    ]
+  },
+  "0x08F96CA6C551AD51": {
+    "old_names": [
+      "_GET_WEAPON_HASH_FROM_PICKUP"
+    ]
+  },
+  "0xC153C43EA202C8C1": {
+    "old_names": [
+      "_DOES_DOOR_EXIST"
+    ]
+  },
+  "0x3430676B11CDF21D": {
+    "old_names": [
+      "_HIGHLIGHT_PLACEMENT_COORDS"
+    ]
+  },
+  "0x4D89D607CB3DD1D2": {
+    "old_names": [
+      "_SET_OBJECT_CAN_CLIMB_ON"
+    ]
+  },
+  "0x971DA0055324D033": {
+    "old_names": [
+      "_SET_OBJECT_TEXTURE_VARIANT"
+    ]
+  },
+  "0x5C29F698D404C5E1": {
+    "old_names": [
+      " _SET_DES_OBJECT_STATE"
+    ]
+  },
+  "0x13337B38DB572509": {
+    "old_names": [
+      "_IS_INPUT_JUST_DISABLED"
+    ]
+  },
+  "0x8290252FFF36ACB5": {
+    "old_names": [
+      "_SET_CONTROL_GROUP_COLOR"
+    ]
+  },
+  "0xF7B79A50B905A30D": {
+    "old_names": [
+      "_ARE_PATH_NODES_LOADED_IN_AREA"
+    ]
+  },
+  "0x2801D0012266DF07": {
+    "old_names": [
+      "_CLEAR_GPS_DISABLED_ZONE_AT_INDEX"
+    ]
+  },
+  "0xA2AE5C478B96E3B6": {
+    "old_names": [
+      "_GET_SUPPORTS_GPS_ROUTE_FLAG"
+    ]
+  },
+  "0x4F5070AA58F69279": {
+    "old_names": [
+      "_GET_IS_SLOW_ROAD_FLAG"
+    ]
+  },
+  "0x5619BFA07CFD7833": {
+    "old_names": [
+      "_SET_PED_FACIAL_DECORATION"
+    ]
+  },
+  "0x6CD5A433374D4CFB": {
+    "old_names": [
+      "_CAN_PED_SEE_PED"
+    ]
+  },
+  "0xE3B27E70CEAB9F0C": {
+    "old_names": [
+      "_CLEAR_PED_FACIAL_DECORATIONS"
+    ]
+  },
+  "0xB50EB4CCB29704AC": {
+    "old_names": [
+      " _REMOVE_PED_SCUBA_GEAR_NOW"
+    ]
+  },
+  "0xD86D101FCFD00A4B": {
+    "old_names": [
+      "_RESET_PED_RAGDOLL_BLOCKING_FLAGS"
+    ]
+  },
+  "0x668FD40BCBA5DE48": {
+    "old_names": [
+      "_CLONE_PED_2"
+    ]
+  },
+  "0x8C4F3BF23B6237DB": {
+    "old_names": [
+      "_CREATE_PARACHUTE_OBJECT"
+    ]
+  },
+  "0x1461B28A06717D68": {
+    "old_names": [
+      "_GET_PED_ILLUMINATED_CLOTHING_GLOW_INTENSITY"
+    ]
+  },
+  "0x4852FC386E2E1BB5": {
+    "old_names": [
+      "_GET_HAIR_RGB_COLOR"
+    ]
+  },
+  "0x013E5CFC38CD5387": {
+    "old_names": [
+      "_GET_MAKEUP_RGB_COLOR"
+    ]
+  },
+  "0x7350823473013C02": {
+    "old_names": [
+      "_HAS_STREAMED_PED_ASSETS_LOADED"
+    ]
+  },
+  "0x6A03BF943D767C93": {
+    "old_names": [
+      "_IS_PED_STANDING_IN_COVER"
+    ]
+  },
+  "0x4E90D746056E273D": {
+    "old_names": [
+      "_SET_PED_ILLUMINATED_CLOTHING_GLOW_INTENSITY"
+    ]
+  },
+  "0x2B16A3BFF1FBCE49": {
+    "old_names": [
+      "_IS_PED_PROP_VALID"
+    ]
+  },
+  "0x26695EC767728D84": {
+    "old_names": [
+      "_SET_PED_RAGDOLL_BLOCKING_FLAGS"
+    ]
+  },
+  "0x394B9CD12435C981": {
+    "old_names": [
+      "_SET_SYNCHRONIZED_SCENE_OCCLUSION_PORTAL"
+    ]
+  },
+  "0x0C112765300C7E1E": {
+    "old_names": [
+      "_DOES_ENTITY_HAVE_FRAG_INST"
+    ]
+  },
+  "0x5006D96C995A5827": {
+    "old_names": [
+      "_EXPAND_WORLD_LIMITS"
+    ]
+  },
+  "0x1C186837D0619335": {
+    "old_names": [
+      "_GET_ACHIEVEMENT_PROGRESSION"
+    ]
+  },
+  "0xC2AFFFDABBDC2C5C": {
+    "old_names": [
+      "_SET_ACHIEVEMENT_PROGRESSION"
+    ]
+  },
+  "0xE23D5873C2394C61": {
+    "old_names": [
+      "_HAS_PLAYER_TELEPORT_FINISHED"
+    ]
+  },
+  "0xF86AA3C56BA31381": {
+    "old_names": [
+      "_DOES_SCRIPT_WITH_NAME_HASH_EXIST"
+    ]
+  },
+  "0x30B4FA1C82DD4B9F": {
+    "old_names": [
+      "_GET_ID_OF_NEXT_THREAD_IN_ENUMERATION"
+    ]
+  },
+  "0xDADFADA5A20143A8": {
+    "old_names": [
+      "_BEGIN_ENUMERATING_THREADS"
+    ]
+  },
+  "0x65287525D951F6BE": {
+    "old_names": [
+      "_GET_SHAPE_TEST_RESULT_EX"
+    ]
+  },
+  "0x2B3334BCA57CD799": {
+    "old_names": [
+      " _SHAPE_TEST_RESULT_ENTITY"
+    ]
+  },
+  "0xE6AC6C45FBE83004": {
+    "old_names": [
+      "_START_SHAPE_TEST_CAPSULE_2"
+    ]
+  },
+  "0x03A93FF1A2CA0864": {
+    "old_names": [
+      "_GET_TOTAL_SC_INBOX_IDS"
+    ]
+  },
+  "0x9A2C8064B6C1E41A": {
+    "old_names": [
+      "_SC_INBOX_MESSAGE_PUSH"
+    ]
+  },
+  "0x75632C5ECD7ED843": {
+    "old_names": [
+      "_SC_START_CHECK_STRING_TASK"
+    ]
+  },
+  "0x82E4A58BABC15AE7": {
+    "old_names": [
+      "_SC_GET_CHECK_STRING_STATUS"
+    ]
+  },
+  "0x1753344C770358AE": {
+    "old_names": [
+      "_SC_HAS_CHECK_STRING_TASK_COMPLETED"
+    ]
+  },
+  "0x80C75307B1C42837": {
+    "old_names": [
+      "_GET_PSTAT_BOOL_HASH"
+    ]
+  },
+  "0x61E111E323419E07": {
+    "old_names": [
+      "_GET_PSTAT_INT_HASH"
+    ]
+  },
+  "0xC4BB08EE7907471E": {
+    "old_names": [
+      "_GET_TUPSTAT_BOOL_HASH",
+      "_GET_PACKED_TITLE_UPDATE_BOOL_STAT_KEY"
+    ]
+  },
+  "0xD16C2AD6B8E32854": {
+    "old_names": [
+      "_GET_TUPSTAT_INT_HASH",
+      "_GET_PACKED_TITLE_UPDATE_INT_STAT_KEY"
+    ]
+  },
+  "0xAFC7E5E075A96F46": {
+    "old_names": [
+      "_PLAYSTATS_AMBIENT_MISSION_CRATE_CREATED",
+      "_PLAYSTATS_CRATE_CREATED"
+    ]
+  },
+  "0x1CAE5D2E3F9A07F0": {
+    "old_names": [
+      "_PLAYSTATS_CRATE_DROP"
+    ]
+  },
+  "0xCB00196B31C39EB1": {
+    "old_names": [
+      "_PLAYSTATS_HOLD_UP"
+    ]
+  },
+  "0x2B69F5074C894811": {
+    "old_names": [
+      "_PLAYSTATS_IMP_EXP"
+    ]
+  },
+  "0xADDD1C754E2E2914": {
+    "old_names": [
+      "_PLAYSTATS_RACE_TO_POINT"
+    ]
+  },
+  "0x68F01422BE1D838F": {
+    "old_names": [
+      "_STAT_SET_PROFILE_SETTING"
+    ]
+  },
+  "0xB5A4DB34FE89B88A": {
+    "old_names": [
+      "_LOAD_MISSION_CREATOR_DATA"
+    ]
+  },
+  "0x8A7A40100EDFEC58": {
+    "old_names": [
+      "_REQUEST_INTERIOR_ROOM_BY_NAME"
+    ]
+  },
+  "0x219C7B8D53E429FD": {
+    "old_names": [
+      "FORMAT_FOCUS_HEADING"
+    ]
+  },
+  "0xB0A6CFD2C69C1088": {
+    "old_names": [
+      "_SET_TASK_PROPERTY_BOOL"
+    ]
+  },
+  "0xD5BB4025AE449A4E": {
+    "old_names": [
+      "_SET_TASK_PROPERTY_FLOAT"
+    ]
+  },
+  "0xD5B35BEA41919ACB": {
+    "old_names": [
+      "_TASK_MOVE_NETWORK_ADVANCED"
+    ]
+  },
+  "0x2D537BA194896636": {
+    "old_names": [
+      "_TASK_MOVE_NETWORK"
+    ]
+  },
+  "0x2CE544C68FB812A0": {
+    "old_names": [
+      "_ADD_SPEED_ZONE_FOR_COORD"
+    ]
+  },
+  "0x54B0F614960F4A5F": {
+    "old_names": [
+      "_ADD_VEHICLE_COMBAT_AVOIDANCE_AREA"
+    ]
+  },
+  "0xD0917A423314BBA8": {
+    "old_names": [
+      " _GET_ARE_BOMB_BAY_DOORS_OPEN"
+    ]
+  },
+  "0x755D6D5267CBBD7E": {
+    "old_names": [
+      "_ARE_PROPELLERS_UNDAMAGED"
+    ]
+  },
+  "0x5991A01434CE9677": {
+    "old_names": [
+      "ADD_A_MARKER_OVER_VEHICLE",
+      "_ARE_VEHICLE_WINGS_INTACT"
+    ]
+  },
+  "0x260BE8F09E326A20": {
+    "old_names": [
+      "_SET_VEHICLE_HALT"
+    ]
+  },
+  "0x2467A2D807D37CA3": {
+    "old_names": [
+      "_GET_BOAT_ANCHOR",
+      "_CAN_BOAT_BE_ANCHORED"
+    ]
+  },
+  "0xEF49CF0270307CBE": {
+    "old_names": [
+      "_REQUEST_VEHICLE_PHONE_EXPLOSION"
+    ]
+  },
+  "0xE43701C36CAFF1A4": {
+    "old_names": [
+      "_GET_VEHICLE_HAS_LANDING_GEAR"
+    ]
+  },
+  "0x375E7FC44F21C8AB": {
+    "old_names": [
+      "_GET_VEHICLE_ATTACHED_TO_ENTITY"
+    ]
+  },
+  "0x218297BF0CFD853B": {
+    "old_names": [
+      "_GET_PED_USING_VEHICLE_DOOR"
+    ]
+  },
+  "0xEA12BD130D7569A1": {
+    "old_names": [
+      "_GET_AIRCRAFT_BOMB_COUNT"
+    ]
+  },
+  "0x00C09F246ABEDD82": {
+    "old_names": [
+      "_GET_VEHICLE_CLASS_MAX_SPEED"
+    ]
+  },
+  "0xF846AA63DF56B804": {
+    "old_names": [
+      "_GET_AIRCRAFT_COUNTERMEASURE_COUNT"
+    ]
+  },
+  "0x53AF99BAA671CA47": {
+    "old_names": [
+      "_GET_VEHICLE_MAX_SPEED"
+    ]
+  },
+  "0xDA62027C8BDB326E": {
+    "old_names": [
+      "_GET_PLANE_HOVER_MODE_PERCENTAGE",
+      "_GET_VEHICLE_HOVER_MODE_PERCENTAGE",
+      "_GET_PLANE_VTOL_DIRECTION"
+    ]
+  },
+  "0x50634E348C8D44EF": {
+    "old_names": [
+      " _HAS_VEHICLE_KERS_BOOST"
+    ]
+  },
+  "0x53409B5163D5B846": {
+    "old_names": [
+      "_GET_VEHICLE_MODEL_DOWN_FORCE"
+    ]
+  },
+  "0xBFBA3BA79CFF7EBF": {
+    "old_names": [
+      "_GET_VEHICLE_MODEL_HAND_BRAKE"
+    ]
+  },
+  "0x4593CF82AA179706": {
+    "old_names": [
+      "_GET_VEHICLE_MOD_DATA"
+    ]
+  },
+  "0x3DFF319A831E0CDB": {
+    "old_names": [
+      "_GET_VEHICLE_HEADLIGHTS_COLOUR",
+      "_GET_VEHICLE_XENON_LIGHTS_COLOUR"
+    ]
+  },
+  "0x9A83F5F9963775EF": {
+    "old_names": [
+      "_IS_VEHICLE_MOD_LOAD_DONE"
+    ]
+  },
+  "0x291E373D483E7EE7": {
+    "old_names": [
+      "_ANY_PASSENGERS_RAPPELING",
+      "_IS_ANY_PASSENGER_RAPPELING_FROM_VEHICLE"
+    ]
+  },
+  "0x4198AB0022B15F87": {
+    "old_names": [
+      "_VEHICLE_HAS_LANDING_GEAR"
+    ]
+  },
+  "0xB5CC40FBCB586380": {
+    "old_names": [
+      "_IS_VEHICLE_SIREN_SOUND_ON"
+    ]
+  },
+  "0x8D474C8FAEFF6CDE": {
+    "old_names": [
+      "_IS_VEHICLE_SHOP_RESPRAY_ALLOWED"
+    ]
+  },
+  "0x1033371FC8E842A7": {
+    "old_names": [
+      "_REMOVE_SPEED_ZONE"
+    ]
+  },
+  "0x90B6DA738A9A25DA": {
+    "old_names": [
+      " _SET_SOME_VEHICLE_DENSITY_MULTIPLIER_THIS_FRAME"
+    ]
+  },
+  "0xBD32E46AA95C1DD2": {
+    "old_names": [
+      "_SET_BOAT_SINKING"
+    ]
+  },
+  "0xE842A9398079BD82": {
+    "old_names": [
+      "_SET_BOAT_ANCHOR_BUOYANCY_COEFFICIENT"
+    ]
+  },
+  "0x8F719973E1445BA2": {
+    "old_names": [
+      "_SET_BOAT_EXPLODES_ON_WRECKED_ACTION"
+    ]
+  },
+  "0xBCBFCD9D1DAC19E2": {
+    "old_names": [
+      "_SET_CARGOBOB_PICKUP_MAGNET_STRENGTH"
+    ]
+  },
+  "0xD4B8E3D1917BC86B": {
+    "old_names": [
+      "_SET_SOMETHING_MULTIPLIER_THIS_FRAME"
+    ]
+  },
+  "0xE615BB7A7752C76A": {
+    "old_names": [
+      "_SET_DISABLE_TURRET_MOVEMENT"
+    ]
+  },
+  "0xF796359A959DF65D": {
+    "old_names": [
+      "_DISPLAY_DISTANT_VEHICLES"
+    ]
+  },
+  "0x84EA99C62CB3EF0C": {
+    "old_names": [
+      "_SET_HYDRAULIC_STATE"
+    ]
+  },
+  "0x877C1EAEAC531023": {
+    "old_names": [
+      "_SET_CARGOBOB_HOOK_POSITION"
+    ]
+  },
+  "0xB893215D8D4C015B": {
+    "old_names": [
+      "_SET_PLANE_MIN_HEIGHT_ABOVE_GROUND",
+      "_SET_PLANE_MIN_HEIGHT_ABOVE_TERRAIN"
+    ]
+  },
+  "0x21115BCD6E44656A": {
+    "old_names": [
+      "_SET_VEHICLE_CLOSE_DOOR_DEFERED_ACTION"
+    ]
+  },
+  "0xF4B2ED59DEB5D774": {
+    "old_names": [
+      "_SET_VEHICLE_BOMBS",
+      "_SET_AIRCRAFT_BOMB_COUNT"
+    ]
+  },
+  "0x9BDA23BF666F0855": {
+    "old_names": [
+      "_SET_AIRCRAFT_COUNTERMEASURE_COUNT"
+    ]
+  },
+  "0x068F64F2470F9656": {
+    "old_names": [
+      " _SET_VEHICLE_CREATES_MONEY_PICKUPS_WHEN_EXPLODED"
+    ]
+  },
+  "0x30D779DE7C4F6DD3": {
+    "old_names": [
+      "_SET_DESIRED_VERTICAL_FLIGHT_PHASE",
+      "_SET_PLANE_VTOL_DESIRED_DIRECTION"
+    ]
+  },
+  "0x9AA47FFF660CB932": {
+    "old_names": [
+      "_SET_VERTICAL_FLIGHT_PHASE",
+      "_SET_PLANE_VTOL_DIRECTION"
+    ]
+  },
+  "0x1AA8A837D2169D94": {
+    "old_names": [
+      "_SET_VEHICLE_LIGHTS_CAN_BE_VISIBLY_DAMAGED"
+    ]
+  },
+  "0x438B3D7CA026FE91": {
+    "old_names": [
+      "_SET_VEHICLE_TRANSFORM_STATE"
+    ]
+  },
+  "0x99C82F8A139F3E4E": {
+    "old_names": [
+      "_SET_VEHICLE_HUD_SPECIAL_ABILITY_BAR_ACTIVE"
+    ]
+  },
+  "0xC45C27EF50F36ADC": {
+    "old_names": [
+      "_SET_VEHICLE_USE_PLAYER_LIGHT_SETTINGS"
+    ]
+  },
+  "0xE41033B25D003A07": {
+    "old_names": [
+      "_SET_VEHICLE_HEADLIGHTS_COLOUR",
+      "_SET_VEHICLE_XENON_LIGHTS_COLOUR"
+    ]
+  },
+  "0x2A69FFD1B42BFF9E": {
+    "old_names": [
+      "_TRANSFORM_STORMBERG_TO_ROAD_VEHICLE"
+    ]
+  },
+  "0xBE4C854FFDB6EEBE": {
+    "old_names": [
+      "_TRANSFORM_STORMBERG_TO_WATER_VEHICLE"
+    ]
+  },
+  "0x2B2A2CC86778B619": {
+    "old_names": [
+      "_GET_WAVES_INTENSITY",
+      "_GET_CURRENT_INTENSITY"
+    ]
+  },
+  "0x5E5E99285AE812DB": {
+    "old_names": [
+      "_RESET_WAVES_INTENSITY",
+      "_RESET_CURRENT_INTENSITY"
+    ]
+  },
+  "0xB96B00E976BE977F": {
+    "old_names": [
+      "_SET_WAVES_INTENSITY",
+      "_SET_CURRENT_INTENSITY"
+    ]
+  },
+  "0x2472622CE1F2D45F": {
+    "old_names": [
+      "_ADD_PED_AMMO"
+    ]
+  },
+  "0x840F03E9041E2C9C": {
+    "old_names": [
+      "_GET_LOCKON_RANGE_OF_CURRENT_PED_WEAPON"
+    ]
+  },
+  "0x585847C5E4E11709": {
+    "old_names": [
+      "_GET_MAX_AMMO_2"
+    ]
+  },
+  "0x3133B907D8B32053": {
+    "old_names": [
+      "_GET_WEAPON_DAMAGE"
+    ]
+  },
+  "0xDAB963831DBFD3F4": {
+    "old_names": [
+      "_IS_AIR_DEFENSE_ZONE_INSIDE_SPHERE"
+    ]
+  },
+  "0xB4771B9AAF4E68E4": {
+    "old_names": [
+      "_SET_CAN_PED_SELECT_WEAPON"
+    ]
+  },
+  "0x4757F00BC6323CFE": {
+    "old_names": [
+      "_SET_WEAPON_DAMAGE_MODIFIER"
+    ]
+  }
+}
