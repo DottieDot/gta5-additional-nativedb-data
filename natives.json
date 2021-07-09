@@ -3347,7 +3347,7 @@
     "examples": [
       {
         "lang": "cpp",
-        "code": "// Possible usage in a freecam with controller support and fps independent movement.\nauto deltaTime     = MISC::GET_FRAME_TIME(); // WARNING: Affected by SET_TIME_SCALE\nauto forward       = PAD::GET_CONTROL_NORMAL(0, INPUT_MOVE_UD /* 31 */);\nauto coords        = getCoords();\nauto forwardVector = getForwardVector();\nauto speed         = SOME_MOVEMENT_SPEED * deltaTime;\nauto movement      = forwardVector * forward * speed;\nsetCoords(coords + movement);"
+        "code": "// Possible usage in a freecam with controller support and fps independent movement.\nauto deltaTime     = MISC::GET_FRAME_TIME(); // WARNING: Affected by SET_TIME_SCALE\nauto forward       = PAD::GET_CONTROL_NORMAL(0, INPUT_MOVE_UD /* 31 */);\nauto coords        = getCoords();\nauto forwardVector = getForwardVector();\nauto speed         = SOME_MOVEMENT_SPEED * deltaTime;\nauto movement      = forwardVector * forward * speed;\n\nsetCoords(coords + movement);"
       }
     ]
   }
