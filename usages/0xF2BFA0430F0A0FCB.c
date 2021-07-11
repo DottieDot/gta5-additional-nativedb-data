@@ -1,0 +1,11 @@
+// finalec2.c @ L128838
+void func_875(int iParam0)
+{
+  if (VEHICLE::IS_VEHICLE_DRIVEABLE(iParam0, 0))
+  {
+    VEHICLE::SET_VEHICLE_DOOR_CONTROL(iParam0, 1, 1, 0f);
+    VEHICLE::SET_VEHICLE_DOOR_CONTROL(iParam0, 0, 1, 0f);
+    VEHICLE::SET_VEHICLE_DOOR_CONTROL(iParam0, 2, 1, 0f);
+    VEHICLE::SET_VEHICLE_DOOR_CONTROL(iParam0, 3, 1, 0f);
+  }
+}

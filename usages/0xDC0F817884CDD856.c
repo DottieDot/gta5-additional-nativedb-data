@@ -1,0 +1,8 @@
+// agency_heist3a.c @ L124641
+void func_770()
+{
+  MISC::ENABLE_DISPATCH_SERVICE(3, false);
+  MISC::ENABLE_DISPATCH_SERVICE(1, false);
+  MISC::ENABLE_DISPATCH_SERVICE(2, false);
+  MISC::ENABLE_DISPATCH_SERVICE(5, false);
+}

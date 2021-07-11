@@ -1,0 +1,12 @@
+// assassin_valet.c @ L19601
+void func_409()
+{
+  if (!ENTITY::DOES_ENTITY_EXIST(iLocal_1065))
+  {
+    iLocal_1065 = VEHICLE::CREATE_VEHICLE(iLocal_1074, vLocal_1056, fLocal_1039, true, true, false);
+    STREAMING::SET_MODEL_AS_NO_LONGER_NEEDED(iLocal_1074);
+    VEHICLE::SET_VEHICLE_DISABLE_TOWING(iLocal_1065, 1);
+    ENTITY::SET_ENTITY_LOAD_COLLISION_FLAG(iLocal_1065, true, 1);
+    VEHICLE::SET_VEHICLE_PROVIDES_COVER(iLocal_1065, 1);
+  }
+}

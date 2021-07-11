@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "usage_finder": {
+      "commandName": "Project",
+      "commandLineArgs": "\"$(SolutionDir)/scripts\" \"$(SolutionDir)../usages\""
+    }
+  }
+}

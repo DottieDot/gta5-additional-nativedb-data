@@ -1,0 +1,25 @@
+// fmmc_launcher.c @ L488399
+void func_7185()
+{
+  if (!MISC::IS_PC_VERSION())
+  {
+    return;
+  }
+  if (PAD::_0x6CD79468A1E595C6(2))
+  {
+    if (PAD::_IS_INPUT_DISABLED(2))
+    {
+      if (HUD::PAUSE_MENU_IS_CONTEXT_ACTIVE(-532113170))
+      {
+        HUD::PAUSE_MENU_DEACTIVATE_CONTEXT(-532113170);
+        HUD::PAUSE_MENU_ACTIVATE_CONTEXT(-83852713);
+      }
+    }
+    else if (HUD::PAUSE_MENU_IS_CONTEXT_ACTIVE(-83852713))
+    {
+      HUD::PAUSE_MENU_DEACTIVATE_CONTEXT(-83852713);
+      HUD::PAUSE_MENU_ACTIVATE_CONTEXT(-532113170);
+    }
+    HUD::_0x4895BDEA16E7C080(0);
+  }
+}

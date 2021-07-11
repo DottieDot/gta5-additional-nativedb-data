@@ -1,0 +1,26 @@
+// exile3.c @ L54008
+void func_492()
+{
+  int iVar0;
+  
+  if (VEHICLE::IS_VEHICLE_DRIVEABLE(iLocal_190, 0))
+  {
+    iVar0 = VEHICLE::GET_TRAIN_CARRIAGE(iLocal_190, iLocal_458);
+    if (VEHICLE::IS_VEHICLE_DRIVEABLE(iLocal_189[0], 0))
+    {
+      if (!PED::IS_PED_IN_VEHICLE(PLAYER::PLAYER_PED_ID(), iLocal_189[0], 0))
+      {
+        PED::SET_PED_INTO_VEHICLE(PLAYER::PLAYER_PED_ID(), iLocal_189[0], -1);
+      }
+      if (VEHICLE::IS_PLAYBACK_GOING_ON_FOR_VEHICLE(iLocal_189[0]))
+      {
+        VEHICLE::STOP_PLAYBACK_RECORDED_VEHICLE(iLocal_189[0]);
+      }
+      ENTITY::SET_ENTITY_COORDS_NO_OFFSET(iLocal_189[0], ENTITY::GET_OFFSET_FROM_ENTITY_IN_WORLD_COORDS(iVar0, 0f, -6f, 3.7f), 0, 0, 1);
+      ENTITY::SET_ENTITY_ROTATION(iLocal_189[0], 0f, 0f, ENTITY::GET_ENTITY_HEADING(iVar0), 2, 1);
+      VEHICLE::SET_VEHICLE_ENGINE_ON(iLocal_189[0], true, true, 0);
+      VEHICLE::SET_VEHICLE_FORWARD_SPEED(iLocal_189[0], 38f);
+      TASK::TASK_VEHICLE_TEMP_ACTION(PLAYER::PLAYER_PED_ID(), iLocal_189[0], 9, 100);
+    }
+  }
+}

@@ -1,0 +1,7 @@
+// af_intro_t_sandy.c @ L888
+void func_34()
+{
+  BRAIN::_0x0B40ED49D7D6FF84();
+  BRAIN::_0x4D953DF78EBF8158();
+  SCRIPT::TERMINATE_THIS_THREAD();
+}

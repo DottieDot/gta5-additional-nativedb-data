@@ -1,0 +1,9 @@
+// standard_global_reg.c @ L8288
+int func_80()
+{
+  if (((LOADINGSCREEN::_LOADINGSCREEN_GET_LOAD_FREEMODE() || LOADINGSCREEN::_0xF2CA003F167E21D2()) || NETWORK::_0x88B588B41FF7868E()) || NETWORK::_0x67FC09BC554A75E5())
+  {
+    return 1;
+  }
+  return 0;
+}

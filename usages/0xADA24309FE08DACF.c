@@ -1,0 +1,21 @@
+// am_backup_heli.c @ L2965
+void func_112(struct<21> Param0)
+{
+  func_118(func_119(Param0), Param0);
+  NETWORK::RESERVE_NETWORK_MISSION_PEDS(3);
+  NETWORK::RESERVE_NETWORK_MISSION_VEHICLES(1);
+  func_116(0, -1, 0);
+  NETWORK::NETWORK_REGISTER_HOST_BROADCAST_VARIABLES(&Local_227, 22);
+  NETWORK::NETWORK_REGISTER_PLAYER_BROADCAST_VARIABLES(&iLocal_248, 3);
+  MISC::SET_THIS_SCRIPT_CAN_BE_PAUSED(0);
+  if (!func_115())
+  {
+    func_96();
+  }
+  if (NETWORK::NETWORK_IS_IN_TUTORIAL_SESSION())
+  {
+    bLocal_48 = true;
+  }
+  func_113(62, 1);
+  iLocal_248[NETWORK::PARTICIPANT_ID_TO_INT()] = 0;
+}

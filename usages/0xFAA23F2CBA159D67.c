@@ -1,0 +1,19 @@
+// exile2.c @ L129381
+int func_818()
+{
+  HUD::CLEAR_HELP(1);
+  func_819();
+  bLocal_330 = false;
+  GRAPHICS::SET_SEETHROUGH(false);
+  if (AUDIO::IS_AUDIO_SCENE_ACTIVE("EXILE_2_SNIPE_STAGE_THERMAL"))
+  {
+    AUDIO::STOP_AUDIO_SCENE("EXILE_2_SNIPE_STAGE_THERMAL");
+  }
+  if (HUD::DOES_BLIP_EXIST(iLocal_316))
+  {
+    HUD::REMOVE_BLIP(&iLocal_316);
+  }
+  STREAMING::START_PLAYER_SWITCH(Local_518.f_3, PLAYER::PLAYER_PED_ID(), 0, 3);
+  iLocal_213 = 5;
+  return 1;
+}

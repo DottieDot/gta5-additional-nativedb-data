@@ -1,0 +1,27 @@
+// freemode.c @ L1061159
+void func_18026()
+{
+  if (func_17945())
+  {
+    return;
+  }
+  if (!NETWORK::NETWORK_IS_ACTIVITY_SESSION())
+  {
+    if (((NETWORK::NETWORK_SESSION_GET_PRIVATE_SLOTS() > 0 || NETWORK::NETWORK_SESSION_IS_CLOSED_FRIENDS()) || NETWORK::NETWORK_SESSION_IS_CLOSED_CREW()) || ((NETWORK::NETWORK_SESSION_IS_SOLO() || NETWORK::NETWORK_SESSION_IS_PRIVATE()) && Global_1312833 != 8))
+    {
+      Global_2448961.f_644 = 1;
+    }
+    else if (func_18027())
+    {
+      Global_2448961.f_644 = 1;
+    }
+    else
+    {
+      Global_2448961.f_644 = 0;
+    }
+  }
+  else if (((NETWORK::NETWORK_IS_TRANSITION_CLOSED_FRIENDS() || NETWORK::NETWORK_IS_TRANSITION_CLOSED_CREW()) || NETWORK::NETWORK_IS_TRANSITION_PRIVATE()) || NETWORK::NETWORK_IS_TRANSITION_SOLO())
+  {
+    Global_2448961.f_644 = 1;
+  }
+}
