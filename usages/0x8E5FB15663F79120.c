@@ -1,8 +1,0 @@
-// am_darts.c @ L131736
-void func_1276()
-{
-  HUD::CLEAR_HELP(1);
-  CAM::DESTROY_ALL_CAMS(0);
-  PLAYER::SET_PLAYER_CONTROL(PLAYER::PLAYER_ID(), true, 0);
-  HUD::DISPLAY_RADAR(true);
-}

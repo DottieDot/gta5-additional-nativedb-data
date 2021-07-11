@@ -1,0 +1,13 @@
+// am_mp_property_int.ysc @ L229278
+void func_2309()
+{
+  if (!CAM::DOES_CAM_EXIST(iLocal_5977))
+  {
+    iLocal_5977 = CAM::CREATE_CAM("DEFAULT_SCRIPTED_CAMERA", false);
+    CAM::SET_CAM_ACTIVE(iLocal_5977, true);
+    CAM::SET_CAM_PARAMS(iLocal_5977, CAM::GET_FINAL_RENDERED_CAM_COORD(), CAM::GET_FINAL_RENDERED_CAM_ROT(2), CAM::GET_FINAL_RENDERED_CAM_FOV(), 0, 1, 1, 2);
+    CAM::RENDER_SCRIPT_CAMS(true, false, 3000, 1, 0, 0);
+  }
+  PED::FORCE_PED_MOTION_STATE(PLAYER::PLAYER_PED_ID(), -1871534317, true, 0, 0);
+  iLocal_5978 = 0;
+}

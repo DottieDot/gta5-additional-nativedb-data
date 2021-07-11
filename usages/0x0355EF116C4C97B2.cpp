@@ -1,0 +1,32 @@
+// agency_heist3b.ysc @ L4852
+void func_44(bool bParam0, bool bParam1)
+{
+  if (bParam0)
+  {
+    if (!AUDIO::IS_ALARM_PLAYING("AGENCY_HEIST_FIB_TOWER_ALARMS"))
+    {
+      if (AUDIO::PREPARE_ALARM("AGENCY_HEIST_FIB_TOWER_ALARMS"))
+      {
+        AUDIO::START_ALARM("AGENCY_HEIST_FIB_TOWER_ALARMS", bParam1);
+      }
+    }
+    if (!AUDIO::IS_ALARM_PLAYING("AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER"))
+    {
+      if (AUDIO::PREPARE_ALARM("AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER"))
+      {
+        AUDIO::START_ALARM("AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER", bParam1);
+      }
+    }
+  }
+  else
+  {
+    if (AUDIO::IS_ALARM_PLAYING("AGENCY_HEIST_FIB_TOWER_ALARMS"))
+    {
+      func_45(&Local_504, "AGENCY_HEIST_FIB_TOWER_ALARMS", bParam1);
+    }
+    if (AUDIO::IS_ALARM_PLAYING("AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER"))
+    {
+      func_45(&Local_504, "AGENCY_HEIST_FIB_TOWER_ALARMS_UPPER", bParam1);
+    }
+  }
+}

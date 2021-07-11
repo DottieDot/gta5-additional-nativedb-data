@@ -1,8 +1,0 @@
-// agency_heist3a.c @ L139021
-void func_999(int iParam0, int iParam1, bool bParam2, bool bParam3)
-{
-  STREAMING::SET_PED_POPULATION_BUDGET(iParam0);
-  STREAMING::SET_VEHICLE_POPULATION_BUDGET(iParam1);
-  STREAMING::SET_REDUCE_PED_MODEL_BUDGET(bParam2);
-  STREAMING::SET_REDUCE_VEHICLE_MODEL_BUDGET(bParam3);
-}

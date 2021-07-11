@@ -1,0 +1,20 @@
+// animal_controller.ysc @ L1655
+void func_30(bool bParam0)
+{
+  if (bParam0)
+  {
+    MISC::SET_FADE_OUT_AFTER_DEATH(0);
+    MISC::SET_FADE_OUT_AFTER_ARREST(0);
+    MISC::SET_FADE_IN_AFTER_DEATH_ARREST(0);
+    MISC::_SET_RESTART_CUSTOM_POSITION(Local_98[iLocal_114 /*46*/][iLocal_115 /*3*/], Local_99[iLocal_114 /*16*/][iLocal_115]);
+  }
+  else
+  {
+    MISC::SET_FADE_OUT_AFTER_DEATH(1);
+    MISC::SET_FADE_OUT_AFTER_ARREST(1);
+    MISC::SET_FADE_IN_AFTER_DEATH_ARREST(1);
+    MISC::_CLEAR_RESTART_CUSTOM_POSITION();
+    MISC::IGNORE_NEXT_RESTART(0);
+    MISC::PAUSE_DEATH_ARREST_RESTART(0);
+  }
+}

@@ -1,0 +1,6 @@
+// act_cinema.ysc @ L2481
+void func_49(char* sParam0)
+{
+  GRAPHICS::BEGIN_TEXT_COMMAND_SCALEFORM_STRING(sParam0);
+  GRAPHICS::END_TEXT_COMMAND_SCALEFORM_STRING();
+}

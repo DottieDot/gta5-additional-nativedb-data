@@ -65,7 +65,7 @@ namespace usage_finder
 				{
 					functions.Add(new FunctionInfo
 					{
-						Script = file.Name,
+						Script = file.Name.Replace(".c", "").Replace(".ysc", "") + ".ysc",
 						Line = functionStart + 1,
 						Code = string.Join("\n", lines.Skip(functionStart).Take(i - functionStart + 1).ToArray())
 							.Replace("\t", "  ")
@@ -94,26 +94,9 @@ namespace usage_finder
 			return result;
 		}
 
-		//public static FunctionInfo? FindUsageForNative(string name, List<FunctionInfo> functions)
-		//{
-		//	return functions.Find(fn => fn.Code.IndexOf(name) != -1);
-		//}
-
-		//public static void SaveUsageForNative(string hash, string name, string outputDirectory, List<FunctionInfo> functions)
-		//{
-		//	var usage = FindUsageForNative(name, functions);
-		//	if (usage == null)
-		//		return;
-
-		//	using var file = File.CreateText($"{outputDirectory}/{hash}.c");
-		//	file.WriteLine($"// {usage.Script} @ L{usage.Line}");
-		//	file.Write(usage.Code);
-		//	file.Close();
-		//}
-
 		public static void SaveUsageForNative(string hash, string outputDirectory, FunctionInfo usage)
 		{
-			using var file = File.CreateText($"{outputDirectory}/{hash}.c");
+			using var file = File.CreateText($"{outputDirectory}/{hash}.cpp");
 			file.WriteLine($"// {usage.Script} @ L{usage.Line}");
 			file.Write(usage.Code);
 			file.Close();

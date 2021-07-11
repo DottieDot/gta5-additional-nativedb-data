@@ -1,6 +1,0 @@
-// am_armwrestling.c @ L130878
-void func_1309(int iParam0)
-{
-  GRAPHICS::SET_SCALEFORM_MOVIE_AS_NO_LONGER_NEEDED(iParam0);
-  AUDIO::RELEASE_SCRIPT_AUDIO_BANK();
-}

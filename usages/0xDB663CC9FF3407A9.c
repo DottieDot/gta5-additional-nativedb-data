@@ -1,9 +1,0 @@
-// blackjack.c @ L10629
-int func_192()
-{
-  if (NETWORK::NETWORK_GET_HOST_OF_THIS_SCRIPT() != func_193())
-  {
-    return NETWORK::_0xDB663CC9FF3407A9(NETWORK::NETWORK_GET_PLAYER_INDEX(NETWORK::NETWORK_GET_HOST_OF_THIS_SCRIPT()));
-  }
-  return 0;
-}

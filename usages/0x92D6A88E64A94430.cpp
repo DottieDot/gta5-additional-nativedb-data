@@ -1,0 +1,27 @@
+// mission_triggerer_b.ysc @ L124886
+void func_1060()
+{
+  func_681(&(Global_95196.f_209), 0);
+  PED::REMOVE_RELATIONSHIP_GROUP(Global_95196.f_42);
+  func_673(&(Global_95196.f_44), 4);
+  PED::REMOVE_SCENARIO_BLOCKING_AREA(Global_95196.f_43, 0);
+  if (PED::IS_SYNCHRONIZED_SCENE_RUNNING(iLocal_501))
+  {
+    if (MISC::IS_BIT_SET(iLocal_498, 3))
+    {
+      AUDIO::STOP_SYNCHRONIZED_AUDIO_EVENT(iLocal_501);
+    }
+  }
+  else
+  {
+    iLocal_501 = PED::CREATE_SYNCHRONIZED_SCENE(vLocal_505, vLocal_508, 2);
+    AUDIO::PLAY_SYNCHRONIZED_AUDIO_EVENT(iLocal_501);
+    AUDIO::STOP_SYNCHRONIZED_AUDIO_EVENT(iLocal_501);
+  }
+  if (MISC::IS_BIT_SET(iLocal_498, 7))
+  {
+    OBJECT::DOOR_SYSTEM_SET_HOLD_OPEN(-925491840, 0);
+    OBJECT::DOOR_SYSTEM_SET_DOOR_STATE(-925491840, 0, false, true);
+    MISC::CLEAR_BIT(&iLocal_498, 7);
+  }
+}

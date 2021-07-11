@@ -1,0 +1,9 @@
+// fm_bj_race_controler.ysc @ L263840
+void func_3444()
+{
+  if (func_3445(joaat("GADGET_PARACHUTE")))
+  {
+    WEAPON::REMOVE_WEAPON_FROM_PED(PLAYER::PLAYER_PED_ID(), joaat("GADGET_PARACHUTE"));
+  }
+  PED::CLEAR_PED_PARACHUTE_PACK_VARIATION(PLAYER::PLAYER_PED_ID());
+}

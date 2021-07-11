@@ -1,0 +1,25 @@
+// am_airstrike.ysc @ L2898
+void func_111(struct<21> Param0)
+{
+  func_117(func_118(Param0), Param0);
+  NETWORK::RESERVE_NETWORK_MISSION_PEDS(1);
+  NETWORK::RESERVE_NETWORK_MISSION_VEHICLES(1);
+  func_115(0, -1, 0);
+  NETWORK::NETWORK_REGISTER_HOST_BROADCAST_VARIABLES(&Local_238, 58);
+  NETWORK::NETWORK_REGISTER_PLAYER_BROADCAST_VARIABLES(&Local_240, 11);
+  MISC::SET_THIS_SCRIPT_CAN_BE_PAUSED(0);
+  if (!func_114())
+  {
+    func_95();
+  }
+  if (ENTITY::DOES_ENTITY_EXIST(PLAYER::PLAYER_PED_ID()))
+  {
+    vLocal_60 = { ENTITY::GET_ENTITY_COORDS(PLAYER::PLAYER_PED_ID(), false) };
+  }
+  if (func_4(PLAYER::PLAYER_ID(), 1, 0))
+  {
+    bLocal_52 = true;
+  }
+  func_112(64, 1);
+  Local_240[NETWORK::PARTICIPANT_ID_TO_INT() /*5*/] = 0;
+}

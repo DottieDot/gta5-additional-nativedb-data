@@ -1,0 +1,31 @@
+// arena_carmod.ysc @ L260710
+void func_2165()
+{
+  VEHICLE::SET_VEHICLE_DOORS_LOCKED_FOR_ALL_PLAYERS(Local_105.f_408, 1);
+  func_94(1);
+  func_2166(1);
+  func_2474(6);
+  func_92(0);
+  if (func_1946(PLAYER::PLAYER_ID()))
+  {
+    if (NETWORK::NETWORK_DOES_NETWORK_ID_EXIST(NETWORK::VEH_TO_NET(Local_105.f_408)))
+    {
+      if (NETWORK::NETWORK_HAS_CONTROL_OF_ENTITY(Local_105.f_408))
+      {
+        if (NETWORK::_0xB07D3185E11657A5(Local_105.f_408))
+        {
+          NETWORK::SET_NETWORK_ID_CAN_MIGRATE(NETWORK::VEH_TO_NET(Local_105.f_408), true);
+        }
+      }
+      else
+      {
+        NETWORK::NETWORK_REQUEST_CONTROL_OF_ENTITY(Local_105.f_408);
+      }
+    }
+  }
+  VEHICLE::_SET_VEHICLE_JET_ENGINE_ON(Local_105.f_408, 0);
+  NETWORK::SET_ENTITY_VISIBLE_IN_CUTSCENE(Local_105.f_408, true, 1);
+  NETWORK::SET_ENTITY_VISIBLE_IN_CUTSCENE(Local_105.f_12, true, 1);
+  NETWORK::SET_LOCAL_PLAYER_VISIBLE_IN_CUTSCENE(1, true);
+  NETWORK::NETWORK_SET_IN_MP_CUTSCENE(1, 0);
+}
