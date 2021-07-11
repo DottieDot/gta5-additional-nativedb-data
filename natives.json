@@ -3350,5 +3350,13 @@
         "code": "// Possible usage in a freecam with controller support and fps independent movement.\nauto deltaTime     = MISC::GET_FRAME_TIME(); // WARNING: Affected by SET_TIME_SCALE\nauto forward       = PAD::GET_CONTROL_NORMAL(0, INPUT_MOVE_UD /* 31 */);\nauto coords        = getCoords();\nauto forwardVector = getForwardVector();\nauto speed         = SOME_MOVEMENT_SPEED * deltaTime;\nauto movement      = forwardVector * forward * speed;\n\nsetCoords(coords + movement);"
       }
     ]
+  },
+  "0x963D27A58DF860AC": {
+    "examples": [
+      {
+        "lang": "cpp",
+        "code": "bool load_model(std::string_view model_name, std::chrono::steady_clock::duration timeout = std::chrono::seconds(2))\n{\n  using clock = std::chrono::steady_clock;\n\n  auto end = clock::now() + timeout;\n  auto model_hash = GAMEPLAY::GET_HASH_KEY(model_name.data());\n\n  if (!STRAMING::IS_MODEL_VALID(model_hash) || !STREAMING::IS_MODEL_IN_CDIMAGE(model_hash))\n  {\n    return false;\n  }\n\n  STREAMING::REQUEST_MODEL(model_hash);\n  while (!STREAMING::HAS_MODEL_LOADED(model_hash))\n  {\n    if (clock::now() >= end) \n    {\n      return false;\n    }\n\n    WAIT(0);\n  }\n\n  return true;\n}"
+      }
+    ]
   }
 }
